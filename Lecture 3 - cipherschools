@@ -1,0 +1,38 @@
+**we studied about variable consonants and data types
+-> consonants - Constants in C++ refer to variables with fixed values that cannot be changed. Once they are defined in the program,
+they remain constant throughout the execution of the program. 
+They are generally stored as read-only tokens in the code segment of the memory of the program. 
+They can be of any available data type in C++ such as int, char, string, etc
+
+-> variables - In programming, a variable is a container (storage area) to hold data.
+To indicate the storage area, each variable should be given a unique name (identifier). For example,
+int age = 14;
+
+-> data types
+C++ supports a wide variety of data types and the programmer can select the data type appropriate to the needs of the application. Data types specify the size and types of values to be stored. However, storage representation and machine instructions to manipulate each data type differ from machine to machine, although C++ instructions are identical on all machines.
+C++ supports the following data types:
+Primary or Built-in or Fundamental data type
+Derived data types
+User-defined data types
+1. Primitive Data Types: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char, float, bool, etc. Primitive data types available in C++ are: 
+
+Integer
+Character
+Boolean
+Floating Point
+Double Floating Point
+Valueless or Void
+Wide Character
+2. Derived Data Types: Derived data types that are derived from the primitive or built-in datatypes are referred to as Derived Data Types. These can be of four types namely: 
+
+Function
+Array
+Pointer
+Reference
+ Abstract or User-Defined Data Types: Abstract or User-Defined data types are defined by the user itself. Like, defining a class in C++ or a structure. C++ provides the following user-defined datatypes:  
+
+Class
+Structure
+Union
+Enumeration
+Typedef defined Datatype
